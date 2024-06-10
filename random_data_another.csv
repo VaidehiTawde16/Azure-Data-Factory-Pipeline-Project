@@ -1,0 +1,501 @@
+ID,Name,Age,Country,Salary,Status
+1001,Person_1001,57,Mexico,28143.59,Employed
+1002,Person_1002,56,Mexico,79393.57,Self-Employed
+1003,Person_1003,41,Russia,86083.32,Self-Employed
+1004,Person_1004,25,Russia,82107.54,Retired
+1005,Person_1005,47,Russia,69926.21,Employed
+1006,Person_1006,57,China,80066.11,Unemployed
+1007,Person_1007,43,Russia,68082.66,Retired
+1008,Person_1008,64,Mexico,41608.56,Employed
+1009,Person_1009,42,China,41186.67,Retired
+1010,Person_1010,57,Russia,70809.97,Student
+1011,Person_1011,36,Mexico,86253.4,Self-Employed
+1012,Person_1012,31,South Africa,87838.62,Self-Employed
+1013,Person_1013,32,China,60059.14,Retired
+1014,Person_1014,50,Mexico,41039.95,Retired
+1015,Person_1015,45,Brazil,50747.68,Retired
+1016,Person_1016,19,China,55354.99,Student
+1017,Person_1017,36,Mexico,43228.25,Retired
+1018,Person_1018,38,South Africa,62620.86,Student
+1019,Person_1019,23,South Africa,79852.43,Student
+1020,Person_1020,25,Brazil,78809.74,Self-Employed
+1021,Person_1021,19,Mexico,57111.65,Unemployed
+1022,Person_1022,49,South Africa,50062.54,Student
+1023,Person_1023,57,Mexico,62125.26,Retired
+1024,Person_1024,28,Brazil,28980.28,Student
+1025,Person_1025,36,Mexico,64898.08,Student
+1026,Person_1026,25,Mexico,52720.53,Retired
+1027,Person_1027,63,Mexico,35560.96,Unemployed
+1028,Person_1028,22,China,48282.61,Unemployed
+1029,Person_1029,24,Russia,69503.83,Retired
+1030,Person_1030,20,Russia,39006.98,Employed
+1031,Person_1031,28,South Africa,57980.5,Unemployed
+1032,Person_1032,25,Russia,54458.23,Retired
+1033,Person_1033,33,Brazil,34527.29,Student
+1034,Person_1034,18,Brazil,58309.35,Student
+1035,Person_1035,58,China,34361.52,Retired
+1036,Person_1036,20,Mexico,62084.42,Student
+1037,Person_1037,34,South Africa,62934.04,Employed
+1038,Person_1038,53,Mexico,91154.66,Self-Employed
+1039,Person_1039,63,Mexico,39875.74,Self-Employed
+1040,Person_1040,54,Brazil,75677.34,Self-Employed
+1041,Person_1041,61,Brazil,78279.03,Retired
+1042,Person_1042,18,South Africa,82976.23,Employed
+1043,Person_1043,56,Russia,42608.03,Self-Employed
+1044,Person_1044,32,China,46569.64,Retired
+1045,Person_1045,46,South Africa,55687.55,Self-Employed
+1046,Person_1046,46,China,78009.82,Employed
+1047,Person_1047,55,Mexico,71356.52,Student
+1048,Person_1048,47,Russia,90342.06,Retired
+1049,Person_1049,51,Russia,30011.69,Retired
+1050,Person_1050,38,South Africa,69570.13,Unemployed
+1051,Person_1051,41,Brazil,79486.12,Unemployed
+1052,Person_1052,28,Brazil,31054.3,Student
+1053,Person_1053,54,Mexico,63163.11,Retired
+1054,Person_1054,28,Russia,32884.98,Employed
+1055,Person_1055,22,China,57904.3,Self-Employed
+1056,Person_1056,34,Mexico,81244.32,Unemployed
+1057,Person_1057,59,Brazil,57298.96,Unemployed
+1058,Person_1058,54,China,76225.92,Retired
+1059,Person_1059,34,Russia,65146.3,Unemployed
+1060,Person_1060,39,Brazil,88386.96,Unemployed
+1061,Person_1061,42,Mexico,65802.71,Employed
+1062,Person_1062,33,Brazil,36668.14,Unemployed
+1063,Person_1063,18,China,82492.62,Employed
+1064,Person_1064,43,South Africa,72473.79,Retired
+1065,Person_1065,64,Brazil,39643.19,Unemployed
+1066,Person_1066,35,Russia,48415.44,Self-Employed
+1067,Person_1067,26,Mexico,89832.35,Retired
+1068,Person_1068,27,South Africa,53007.44,Self-Employed
+1069,Person_1069,62,Russia,73093.9,Unemployed
+1070,Person_1070,34,China,91222.99,Self-Employed
+1071,Person_1071,39,China,74278.21,Employed
+1072,Person_1072,49,China,76723.07,Unemployed
+1073,Person_1073,52,China,58563.85,Unemployed
+1074,Person_1074,49,South Africa,73772.28,Unemployed
+1075,Person_1075,21,China,40489.62,Unemployed
+1076,Person_1076,61,Russia,88543.98,Student
+1077,Person_1077,55,Russia,51611.53,Unemployed
+1078,Person_1078,41,Brazil,56238.19,Retired
+1079,Person_1079,42,Mexico,75100.11,Retired
+1080,Person_1080,62,Brazil,91354.6,Self-Employed
+1081,Person_1081,45,Russia,67955.11,Employed
+1082,Person_1082,63,Brazil,75410.19,Retired
+1083,Person_1083,32,South Africa,46828.0,Unemployed
+1084,Person_1084,22,Russia,70037.53,Employed
+1085,Person_1085,41,Mexico,70497.62,Retired
+1086,Person_1086,41,Brazil,50533.23,Retired
+1087,Person_1087,59,Brazil,89446.67,Unemployed
+1088,Person_1088,48,South Africa,68937.69,Self-Employed
+1089,Person_1089,21,Mexico,73502.14,Unemployed
+1090,Person_1090,25,Mexico,28760.42,Student
+1091,Person_1091,25,Brazil,44277.92,Student
+1092,Person_1092,18,Russia,63310.79,Self-Employed
+1093,Person_1093,49,Brazil,79206.64,Unemployed
+1094,Person_1094,53,Brazil,64912.05,Unemployed
+1095,Person_1095,37,Russia,41046.93,Unemployed
+1096,Person_1096,40,Brazil,81134.22,Unemployed
+1097,Person_1097,38,Mexico,60659.67,Employed
+1098,Person_1098,21,Mexico,69223.44,Employed
+1099,Person_1099,57,Russia,72733.22,Employed
+1100,Person_1100,34,South Africa,62782.01,Unemployed
+1101,Person_1101,54,Mexico,75506.63,Retired
+1102,Person_1102,26,Russia,65141.98,Unemployed
+1103,Person_1103,25,China,40065.36,Unemployed
+1104,Person_1104,26,South Africa,28709.02,Unemployed
+1105,Person_1105,41,Brazil,63570.68,Self-Employed
+1106,Person_1106,54,Mexico,88342.72,Employed
+1107,Person_1107,23,Brazil,70485.67,Retired
+1108,Person_1108,38,Brazil,40501.25,Employed
+1109,Person_1109,21,Mexico,49940.64,Employed
+1110,Person_1110,32,Brazil,90032.93,Unemployed
+1111,Person_1111,21,China,74637.7,Unemployed
+1112,Person_1112,24,South Africa,35587.33,Self-Employed
+1113,Person_1113,53,Brazil,57151.95,Unemployed
+1114,Person_1114,45,Russia,53223.89,Self-Employed
+1115,Person_1115,21,Mexico,51799.48,Student
+1116,Person_1116,56,South Africa,49642.04,Unemployed
+1117,Person_1117,29,Brazil,69943.12,Retired
+1118,Person_1118,60,South Africa,50701.68,Employed
+1119,Person_1119,32,Russia,71994.34,Student
+1120,Person_1120,58,Russia,33316.24,Employed
+1121,Person_1121,61,Brazil,91788.07,Employed
+1122,Person_1122,56,China,80468.32,Employed
+1123,Person_1123,46,Mexico,71768.96,Self-Employed
+1124,Person_1124,60,South Africa,54277.55,Student
+1125,Person_1125,56,Russia,66321.04,Student
+1126,Person_1126,47,South Africa,59116.66,Unemployed
+1127,Person_1127,20,Brazil,78686.86,Student
+1128,Person_1128,31,Russia,51497.49,Retired
+1129,Person_1129,29,China,60785.44,Unemployed
+1130,Person_1130,29,South Africa,36910.36,Student
+1131,Person_1131,52,South Africa,84739.43,Student
+1132,Person_1132,21,South Africa,72939.16,Student
+1133,Person_1133,50,Russia,62281.4,Student
+1134,Person_1134,19,South Africa,43622.95,Self-Employed
+1135,Person_1135,37,China,33113.3,Student
+1136,Person_1136,56,Mexico,77074.82,Self-Employed
+1137,Person_1137,28,Brazil,72919.72,Retired
+1138,Person_1138,48,China,75422.98,Student
+1139,Person_1139,32,South Africa,80974.31,Self-Employed
+1140,Person_1140,21,China,32374.82,Retired
+1141,Person_1141,18,Mexico,44548.97,Unemployed
+1142,Person_1142,20,Russia,28847.54,Employed
+1143,Person_1143,23,South Africa,68447.92,Student
+1144,Person_1144,58,Brazil,90646.2,Employed
+1145,Person_1145,18,Russia,51679.62,Unemployed
+1146,Person_1146,39,Russia,61830.98,Self-Employed
+1147,Person_1147,28,Mexico,71295.2,Retired
+1148,Person_1148,40,China,66142.65,Unemployed
+1149,Person_1149,49,Brazil,83663.76,Retired
+1150,Person_1150,32,South Africa,67709.79,Student
+1151,Person_1151,53,China,54538.49,Student
+1152,Person_1152,37,Mexico,30386.18,Retired
+1153,Person_1153,59,China,42825.98,Retired
+1154,Person_1154,20,China,41523.03,Student
+1155,Person_1155,21,Brazil,55438.71,Student
+1156,Person_1156,45,Brazil,79129.73,Self-Employed
+1157,Person_1157,36,Russia,61800.11,Student
+1158,Person_1158,46,South Africa,39694.08,Employed
+1159,Person_1159,56,China,28203.24,Unemployed
+1160,Person_1160,38,China,82931.91,Student
+1161,Person_1161,36,China,50763.17,Retired
+1162,Person_1162,61,China,76621.0,Unemployed
+1163,Person_1163,54,Mexico,83375.24,Student
+1164,Person_1164,29,Russia,65463.41,Employed
+1165,Person_1165,55,South Africa,50942.77,Unemployed
+1166,Person_1166,34,China,28291.78,Self-Employed
+1167,Person_1167,59,Russia,46218.79,Unemployed
+1168,Person_1168,39,Brazil,86308.13,Employed
+1169,Person_1169,54,Russia,49738.98,Self-Employed
+1170,Person_1170,34,Russia,42177.85,Employed
+1171,Person_1171,32,Brazil,44395.99,Student
+1172,Person_1172,19,Mexico,84391.21,Employed
+1173,Person_1173,53,Brazil,85795.96,Self-Employed
+1174,Person_1174,26,China,42679.23,Unemployed
+1175,Person_1175,63,China,77392.5,Self-Employed
+1176,Person_1176,29,Brazil,82450.81,Retired
+1177,Person_1177,29,China,68180.78,Self-Employed
+1178,Person_1178,40,China,67250.93,Student
+1179,Person_1179,42,Mexico,79535.07,Unemployed
+1180,Person_1180,45,Russia,33890.92,Employed
+1181,Person_1181,31,Russia,36869.75,Retired
+1182,Person_1182,61,South Africa,75181.4,Unemployed
+1183,Person_1183,42,Russia,77480.62,Self-Employed
+1184,Person_1184,34,South Africa,83356.7,Retired
+1185,Person_1185,44,Russia,54329.48,Student
+1186,Person_1186,38,Brazil,89753.34,Employed
+1187,Person_1187,42,Mexico,77107.26,Self-Employed
+1188,Person_1188,23,Brazil,80364.0,Student
+1189,Person_1189,19,Mexico,56855.78,Retired
+1190,Person_1190,22,Russia,70483.57,Unemployed
+1191,Person_1191,56,Russia,29019.21,Student
+1192,Person_1192,23,Brazil,39450.19,Self-Employed
+1193,Person_1193,29,China,49280.9,Retired
+1194,Person_1194,41,Mexico,69582.55,Student
+1195,Person_1195,32,Mexico,56031.5,Employed
+1196,Person_1196,51,Mexico,39576.07,Employed
+1197,Person_1197,33,China,54010.14,Unemployed
+1198,Person_1198,36,Russia,68657.62,Retired
+1199,Person_1199,62,Russia,43541.72,Student
+1200,Person_1200,29,Mexico,70095.3,Retired
+1201,Person_1201,49,Brazil,74455.74,Self-Employed
+1202,Person_1202,44,China,85899.17,Unemployed
+1203,Person_1203,59,Russia,35349.0,Retired
+1204,Person_1204,25,Russia,67085.22,Retired
+1205,Person_1205,55,South Africa,43718.2,Employed
+1206,Person_1206,22,Mexico,38813.0,Self-Employed
+1207,Person_1207,60,Mexico,70141.29,Retired
+1208,Person_1208,28,Brazil,61580.69,Unemployed
+1209,Person_1209,31,Russia,59930.78,Unemployed
+1210,Person_1210,25,Mexico,85913.41,Retired
+1211,Person_1211,46,China,52846.22,Self-Employed
+1212,Person_1212,48,South Africa,58365.62,Unemployed
+1213,Person_1213,35,Russia,64578.33,Unemployed
+1214,Person_1214,27,Brazil,28934.57,Unemployed
+1215,Person_1215,61,Russia,85940.93,Self-Employed
+1216,Person_1216,50,Mexico,58481.24,Retired
+1217,Person_1217,27,Russia,83116.18,Self-Employed
+1218,Person_1218,33,South Africa,56016.05,Employed
+1219,Person_1219,22,South Africa,77100.61,Employed
+1220,Person_1220,50,Mexico,53841.11,Retired
+1221,Person_1221,20,Mexico,72615.22,Retired
+1222,Person_1222,33,China,39470.88,Retired
+1223,Person_1223,28,Mexico,33088.51,Self-Employed
+1224,Person_1224,46,Russia,89475.53,Employed
+1225,Person_1225,53,China,85669.07,Retired
+1226,Person_1226,20,South Africa,75093.66,Employed
+1227,Person_1227,50,Mexico,40270.7,Retired
+1228,Person_1228,41,Brazil,30996.35,Employed
+1229,Person_1229,34,Brazil,54324.31,Unemployed
+1230,Person_1230,40,South Africa,29108.21,Retired
+1231,Person_1231,21,Russia,46809.45,Student
+1232,Person_1232,58,Brazil,63195.48,Retired
+1233,Person_1233,19,China,52385.58,Self-Employed
+1234,Person_1234,45,China,60012.72,Retired
+1235,Person_1235,48,China,34942.65,Student
+1236,Person_1236,30,Mexico,65170.01,Self-Employed
+1237,Person_1237,20,Brazil,76542.6,Unemployed
+1238,Person_1238,38,Brazil,47569.03,Self-Employed
+1239,Person_1239,53,Russia,69518.3,Student
+1240,Person_1240,32,South Africa,54291.84,Retired
+1241,Person_1241,31,Russia,41890.7,Student
+1242,Person_1242,48,Mexico,30987.31,Employed
+1243,Person_1243,24,China,39238.3,Student
+1244,Person_1244,39,Mexico,89099.6,Student
+1245,Person_1245,34,Mexico,57482.59,Self-Employed
+1246,Person_1246,36,Mexico,48236.61,Self-Employed
+1247,Person_1247,47,Mexico,44793.37,Retired
+1248,Person_1248,52,Mexico,78611.94,Unemployed
+1249,Person_1249,54,South Africa,67843.75,Self-Employed
+1250,Person_1250,37,South Africa,52952.64,Student
+1251,Person_1251,38,Mexico,74741.29,Employed
+1252,Person_1252,30,South Africa,45223.34,Unemployed
+1253,Person_1253,30,Russia,61531.46,Self-Employed
+1254,Person_1254,38,Mexico,49449.59,Self-Employed
+1255,Person_1255,37,Russia,61694.63,Retired
+1256,Person_1256,50,Brazil,49528.22,Unemployed
+1257,Person_1257,53,South Africa,38825.53,Unemployed
+1258,Person_1258,39,South Africa,89289.87,Unemployed
+1259,Person_1259,34,China,31813.7,Student
+1260,Person_1260,51,Russia,36131.21,Student
+1261,Person_1261,27,China,33907.46,Self-Employed
+1262,Person_1262,21,Mexico,35617.01,Retired
+1263,Person_1263,58,Russia,56726.98,Self-Employed
+1264,Person_1264,28,Mexico,28915.72,Retired
+1265,Person_1265,64,Russia,76589.35,Self-Employed
+1266,Person_1266,60,Mexico,70136.5,Retired
+1267,Person_1267,25,Mexico,43136.76,Student
+1268,Person_1268,22,Brazil,47836.62,Student
+1269,Person_1269,19,Mexico,62758.09,Retired
+1270,Person_1270,27,Brazil,65743.2,Unemployed
+1271,Person_1271,22,Mexico,74626.87,Self-Employed
+1272,Person_1272,42,Mexico,66130.14,Retired
+1273,Person_1273,28,Mexico,74076.35,Student
+1274,Person_1274,55,Brazil,54194.85,Retired
+1275,Person_1275,46,Russia,71071.07,Retired
+1276,Person_1276,29,Mexico,85592.85,Self-Employed
+1277,Person_1277,21,Russia,90169.27,Employed
+1278,Person_1278,59,Russia,64686.47,Retired
+1279,Person_1279,59,South Africa,57975.57,Self-Employed
+1280,Person_1280,44,Mexico,64034.69,Unemployed
+1281,Person_1281,24,China,57737.78,Unemployed
+1282,Person_1282,56,Brazil,37733.05,Student
+1283,Person_1283,50,China,87668.75,Self-Employed
+1284,Person_1284,47,Russia,80406.53,Student
+1285,Person_1285,47,Mexico,46484.28,Self-Employed
+1286,Person_1286,41,Russia,48710.67,Self-Employed
+1287,Person_1287,56,South Africa,74256.69,Retired
+1288,Person_1288,58,Brazil,46603.91,Self-Employed
+1289,Person_1289,57,Russia,71972.04,Self-Employed
+1290,Person_1290,23,Mexico,91724.54,Employed
+1291,Person_1291,59,Russia,43811.75,Retired
+1292,Person_1292,60,South Africa,58374.97,Self-Employed
+1293,Person_1293,34,South Africa,52197.83,Self-Employed
+1294,Person_1294,21,China,43514.51,Self-Employed
+1295,Person_1295,48,South Africa,51504.71,Unemployed
+1296,Person_1296,21,Mexico,38256.77,Unemployed
+1297,Person_1297,60,Russia,71410.01,Self-Employed
+1298,Person_1298,32,Brazil,55633.65,Employed
+1299,Person_1299,54,Russia,31924.64,Student
+1300,Person_1300,44,Mexico,78728.56,Self-Employed
+1301,Person_1301,27,South Africa,61168.44,Unemployed
+1302,Person_1302,35,China,56738.08,Student
+1303,Person_1303,33,Russia,47496.94,Employed
+1304,Person_1304,20,South Africa,36391.05,Employed
+1305,Person_1305,20,South Africa,52774.19,Employed
+1306,Person_1306,44,Mexico,79108.74,Employed
+1307,Person_1307,62,Russia,71106.92,Student
+1308,Person_1308,20,Mexico,44474.68,Unemployed
+1309,Person_1309,22,Russia,35339.75,Retired
+1310,Person_1310,28,Russia,48429.31,Student
+1311,Person_1311,19,China,28901.81,Student
+1312,Person_1312,48,China,36680.49,Retired
+1313,Person_1313,46,Brazil,51874.38,Self-Employed
+1314,Person_1314,64,Brazil,91902.01,Unemployed
+1315,Person_1315,59,Mexico,57378.08,Self-Employed
+1316,Person_1316,36,Mexico,65724.67,Self-Employed
+1317,Person_1317,37,Russia,77791.57,Employed
+1318,Person_1318,39,China,35362.3,Student
+1319,Person_1319,30,China,56619.79,Employed
+1320,Person_1320,19,South Africa,68376.61,Unemployed
+1321,Person_1321,49,Brazil,45629.43,Self-Employed
+1322,Person_1322,32,China,60571.06,Unemployed
+1323,Person_1323,61,Brazil,73433.77,Employed
+1324,Person_1324,59,Russia,75637.69,Employed
+1325,Person_1325,45,Brazil,66238.31,Student
+1326,Person_1326,44,South Africa,74847.87,Self-Employed
+1327,Person_1327,22,South Africa,51022.22,Self-Employed
+1328,Person_1328,20,Russia,88897.47,Student
+1329,Person_1329,50,Russia,71210.3,Retired
+1330,Person_1330,56,Brazil,66816.93,Self-Employed
+1331,Person_1331,44,South Africa,35876.34,Unemployed
+1332,Person_1332,26,Mexico,58687.5,Retired
+1333,Person_1333,23,South Africa,44600.02,Student
+1334,Person_1334,58,Mexico,86066.79,Employed
+1335,Person_1335,42,Russia,38960.72,Student
+1336,Person_1336,20,China,88846.74,Unemployed
+1337,Person_1337,60,Brazil,87709.3,Retired
+1338,Person_1338,19,Russia,52440.15,Self-Employed
+1339,Person_1339,55,Mexico,58101.59,Student
+1340,Person_1340,48,China,73518.13,Employed
+1341,Person_1341,46,Brazil,29853.94,Unemployed
+1342,Person_1342,18,Mexico,82171.66,Student
+1343,Person_1343,59,South Africa,66623.87,Unemployed
+1344,Person_1344,64,South Africa,90836.32,Retired
+1345,Person_1345,38,Brazil,45236.42,Retired
+1346,Person_1346,59,South Africa,28843.79,Student
+1347,Person_1347,61,South Africa,56848.53,Retired
+1348,Person_1348,30,Mexico,62731.83,Self-Employed
+1349,Person_1349,58,Russia,85498.63,Retired
+1350,Person_1350,36,Brazil,67335.26,Employed
+1351,Person_1351,28,South Africa,77995.57,Unemployed
+1352,Person_1352,35,South Africa,69489.55,Unemployed
+1353,Person_1353,34,Brazil,42058.2,Unemployed
+1354,Person_1354,63,Brazil,54950.89,Self-Employed
+1355,Person_1355,61,Mexico,46428.15,Retired
+1356,Person_1356,52,Brazil,84629.18,Employed
+1357,Person_1357,64,Mexico,29716.66,Self-Employed
+1358,Person_1358,28,China,28427.58,Retired
+1359,Person_1359,64,Brazil,38877.05,Student
+1360,Person_1360,58,Brazil,33792.1,Student
+1361,Person_1361,53,China,88879.86,Retired
+1362,Person_1362,23,China,80949.84,Self-Employed
+1363,Person_1363,21,South Africa,77655.04,Student
+1364,Person_1364,25,Mexico,40555.27,Student
+1365,Person_1365,38,Brazil,65774.78,Retired
+1366,Person_1366,62,Brazil,52339.58,Employed
+1367,Person_1367,35,China,48604.5,Retired
+1368,Person_1368,19,Brazil,69261.36,Unemployed
+1369,Person_1369,51,China,57229.76,Retired
+1370,Person_1370,54,South Africa,50045.9,Student
+1371,Person_1371,34,South Africa,86107.29,Retired
+1372,Person_1372,48,Russia,32484.62,Unemployed
+1373,Person_1373,35,Brazil,82315.58,Retired
+1374,Person_1374,48,China,63929.96,Student
+1375,Person_1375,38,Mexico,74113.55,Self-Employed
+1376,Person_1376,25,Mexico,58149.3,Self-Employed
+1377,Person_1377,45,China,57490.48,Self-Employed
+1378,Person_1378,18,South Africa,63310.58,Unemployed
+1379,Person_1379,40,Mexico,58360.65,Retired
+1380,Person_1380,54,China,82076.0,Employed
+1381,Person_1381,52,Brazil,34499.97,Self-Employed
+1382,Person_1382,31,Russia,48259.23,Unemployed
+1383,Person_1383,42,China,32782.15,Retired
+1384,Person_1384,51,Brazil,62434.68,Self-Employed
+1385,Person_1385,31,South Africa,31344.76,Student
+1386,Person_1386,49,South Africa,44719.79,Unemployed
+1387,Person_1387,56,Mexico,33263.53,Employed
+1388,Person_1388,57,South Africa,43563.66,Unemployed
+1389,Person_1389,18,Brazil,57664.97,Student
+1390,Person_1390,29,South Africa,54841.61,Student
+1391,Person_1391,42,China,66157.48,Student
+1392,Person_1392,37,South Africa,48253.24,Retired
+1393,Person_1393,49,Brazil,49901.69,Self-Employed
+1394,Person_1394,49,China,29498.9,Retired
+1395,Person_1395,18,South Africa,75120.15,Retired
+1396,Person_1396,22,China,42461.4,Self-Employed
+1397,Person_1397,59,South Africa,89023.22,Self-Employed
+1398,Person_1398,64,Mexico,35868.44,Unemployed
+1399,Person_1399,25,Russia,52058.57,Student
+1400,Person_1400,38,Russia,71383.13,Employed
+1401,Person_1401,39,South Africa,71100.2,Employed
+1402,Person_1402,47,China,62893.07,Unemployed
+1403,Person_1403,60,South Africa,57736.06,Self-Employed
+1404,Person_1404,62,Brazil,56369.25,Employed
+1405,Person_1405,58,Russia,35533.42,Unemployed
+1406,Person_1406,26,Mexico,78004.57,Employed
+1407,Person_1407,47,Russia,49965.74,Employed
+1408,Person_1408,22,Brazil,43996.63,Self-Employed
+1409,Person_1409,21,Russia,67895.27,Retired
+1410,Person_1410,47,South Africa,67579.47,Employed
+1411,Person_1411,26,Brazil,42529.65,Self-Employed
+1412,Person_1412,33,Brazil,50523.8,Unemployed
+1413,Person_1413,39,Brazil,40717.32,Unemployed
+1414,Person_1414,62,Russia,53565.45,Retired
+1415,Person_1415,60,Brazil,67743.38,Retired
+1416,Person_1416,24,South Africa,41506.5,Employed
+1417,Person_1417,35,China,57265.63,Unemployed
+1418,Person_1418,58,China,32781.27,Self-Employed
+1419,Person_1419,57,Russia,69830.5,Unemployed
+1420,Person_1420,49,Mexico,69276.7,Unemployed
+1421,Person_1421,19,Mexico,87298.07,Employed
+1422,Person_1422,28,South Africa,66772.54,Unemployed
+1423,Person_1423,47,Russia,67277.73,Self-Employed
+1424,Person_1424,53,China,39571.26,Student
+1425,Person_1425,43,Mexico,89233.24,Self-Employed
+1426,Person_1426,57,China,44226.06,Self-Employed
+1427,Person_1427,60,Russia,31209.26,Employed
+1428,Person_1428,21,Brazil,42712.2,Self-Employed
+1429,Person_1429,46,Russia,72030.62,Employed
+1430,Person_1430,46,Russia,45496.52,Student
+1431,Person_1431,44,Russia,33044.61,Self-Employed
+1432,Person_1432,55,Brazil,71528.0,Student
+1433,Person_1433,63,China,48829.68,Unemployed
+1434,Person_1434,64,Brazil,72250.3,Retired
+1435,Person_1435,55,China,33341.89,Self-Employed
+1436,Person_1436,39,South Africa,76120.28,Employed
+1437,Person_1437,55,Mexico,79598.76,Employed
+1438,Person_1438,19,Russia,53596.03,Employed
+1439,Person_1439,59,South Africa,35741.97,Student
+1440,Person_1440,56,South Africa,51079.91,Student
+1441,Person_1441,37,South Africa,38530.36,Unemployed
+1442,Person_1442,56,South Africa,84251.58,Unemployed
+1443,Person_1443,23,South Africa,68923.12,Student
+1444,Person_1444,55,Russia,77035.24,Unemployed
+1445,Person_1445,38,Russia,72527.67,Employed
+1446,Person_1446,31,Russia,77717.33,Unemployed
+1447,Person_1447,43,China,36404.81,Retired
+1448,Person_1448,44,South Africa,78053.96,Employed
+1449,Person_1449,30,South Africa,34118.32,Retired
+1450,Person_1450,49,South Africa,56955.44,Unemployed
+1451,Person_1451,38,South Africa,43449.77,Unemployed
+1452,Person_1452,48,China,71002.13,Employed
+1453,Person_1453,19,South Africa,87391.17,Employed
+1454,Person_1454,53,South Africa,66146.94,Employed
+1455,Person_1455,57,Russia,87530.17,Retired
+1456,Person_1456,28,China,69909.79,Retired
+1457,Person_1457,45,Russia,43173.29,Retired
+1458,Person_1458,62,Brazil,80727.54,Student
+1459,Person_1459,48,China,55121.73,Student
+1460,Person_1460,42,South Africa,80473.71,Retired
+1461,Person_1461,27,Brazil,34959.96,Student
+1462,Person_1462,43,Mexico,60313.3,Employed
+1463,Person_1463,41,China,46979.67,Student
+1464,Person_1464,27,Mexico,44085.46,Unemployed
+1465,Person_1465,47,South Africa,75583.41,Student
+1466,Person_1466,34,Mexico,61547.97,Self-Employed
+1467,Person_1467,33,South Africa,62255.1,Self-Employed
+1468,Person_1468,55,Mexico,87671.57,Student
+1469,Person_1469,21,Mexico,70453.79,Retired
+1470,Person_1470,28,Brazil,49010.03,Retired
+1471,Person_1471,52,China,58319.19,Retired
+1472,Person_1472,29,Brazil,44892.02,Self-Employed
+1473,Person_1473,19,South Africa,32957.37,Student
+1474,Person_1474,19,Mexico,91438.97,Self-Employed
+1475,Person_1475,22,South Africa,61062.08,Self-Employed
+1476,Person_1476,30,Russia,79006.11,Unemployed
+1477,Person_1477,63,Brazil,37606.13,Unemployed
+1478,Person_1478,33,China,60584.42,Retired
+1479,Person_1479,63,Brazil,69569.04,Unemployed
+1480,Person_1480,55,China,51978.99,Retired
+1481,Person_1481,23,Russia,37886.65,Student
+1482,Person_1482,19,Brazil,47364.12,Unemployed
+1483,Person_1483,64,China,67655.76,Employed
+1484,Person_1484,32,Mexico,89229.6,Employed
+1485,Person_1485,41,Russia,48918.98,Unemployed
+1486,Person_1486,45,China,41494.82,Employed
+1487,Person_1487,49,Russia,42291.74,Retired
+1488,Person_1488,56,Brazil,83064.47,Employed
+1489,Person_1489,64,Mexico,71063.03,Student
+1490,Person_1490,57,China,36722.98,Unemployed
+1491,Person_1491,31,South Africa,72765.63,Employed
+1492,Person_1492,64,China,79948.56,Unemployed
+1493,Person_1493,62,Russia,67008.09,Self-Employed
+1494,Person_1494,63,South Africa,54575.32,Retired
+1495,Person_1495,62,Mexico,45249.34,Unemployed
+1496,Person_1496,20,Russia,73268.21,Student
+1497,Person_1497,55,China,77401.85,Employed
+1498,Person_1498,38,Brazil,81975.81,Retired
+1499,Person_1499,62,Russia,64475.94,Student
+1500,Person_1500,36,Brazil,80951.11,Employed
